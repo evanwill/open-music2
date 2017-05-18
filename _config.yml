@@ -1,0 +1,9 @@
+title:            Open Music Theory
+tagline:          OER Textbook Test
+description:      "an open, interactive, online textbook for college music theory"
+url: "https://evanwill.github.io/open-music2"
+baseurl: ""
+
+author:
+  name:           Evan Will
+  github:         evanwill
