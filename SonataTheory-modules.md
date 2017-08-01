@@ -106,4 +106,18 @@ The C module's melodic material can be P-based, TR-based, wholly new, or a strin
 
 A retransition is like a *turnaround* in pop/rock or blues music. It is a dominant chord or arrival in the home key that prepares the return to the home key at the beginning of the repeat of the exposition. The difference between an RT and a turnaround is that an RT follows a modulation. When the RT follows a secondary key of V, it turns I in the key of V into V into the key of I by repetition, melodic figuration, or the adding of a chordal seventh.
 
+## Notes section
+
+jakada
+dsf
+dasf
+a
+dsf
+adsf
+
+list:
+- hed
+- two
+- three
+
 
