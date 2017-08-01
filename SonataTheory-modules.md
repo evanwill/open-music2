@@ -108,7 +108,7 @@ A retransition is like a *turnaround* in pop/rock or blues music. It is a domina
 
 ## Notes section
 
-jakada
+jakadadalf jdsfk adsfja sdfkas df
 dsf
 dasf
 a
